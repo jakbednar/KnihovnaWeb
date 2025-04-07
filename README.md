@@ -12,4 +12,4 @@ Jednoduchá webová aplikace vytvořená v **Blazor WebAssembly**, která umož�
 
 ## 🗂️ Ukázka projektu
 
-![Snímek obrazovky 2025-04-07 v 18 48 01](https://github.com/user-attachments/assets/4204d7ca-227b-4df7-ac46-188e371f61a7)
+![Snímek obrazovky 2025-04-07 v 18 53 43](https://github.com/user-attachments/assets/c8bc7b29-0460-42a7-9757-3f3aa228099d)
